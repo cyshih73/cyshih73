@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📚 I'm currently studying at Rice University
-- 🔭 I'm looking for full-time job starting this December
+- 🔭 I'm looking for full-time software engineering job starting this December
 - 📫 Thank you for visiting my github!
 
 <!--
