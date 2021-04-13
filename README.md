@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 📚 I'm currently studying at Rice University
+- 🔭 I'm looking for full-time job starting this December
+- 📫 Thank you for visiting my github!
+
 <!--
 **cyshih73/cyshih73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
