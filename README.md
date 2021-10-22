@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 📚 I'm currently studying at Rice University
-- 🔭 I will start as a software engineer at Google next March
-- 📫 Thank you for visiting my github!
+- 📚 MCS at Rice University
+- 🔭 Starting as a software engineer at Google next March
 
 <!--
 **cyshih73/cyshih73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
