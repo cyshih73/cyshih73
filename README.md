@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 📚 MCS at Rice University
-- 🔭 Starting as a software engineer at Google next March
+- 📚 MCS @ Rice University
+- 🔭 Incoming SDE @ Google Seattle
 
 <!--
 **cyshih73/cyshih73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
